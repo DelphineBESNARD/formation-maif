@@ -1,2 +1,0 @@
-# Formation GIT MAIF BA
-
